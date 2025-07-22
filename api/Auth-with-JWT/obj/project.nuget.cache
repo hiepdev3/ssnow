@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pqEKWpg2NNI=",
+  "dgSpecHash": "R5+kT3sLsOU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dell\\Desktop\\backend\\Auth-with-JWT\\Auth-with-JWT.csproj",
+  "projectFilePath": "H:\\deoonroi\\ssnow\\api\\Auth-with-JWT\\Auth-with-JWT.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dell\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.5\\microsoft.aspnetcore.authentication.jwtbearer.8.0.5.nupkg.sha512",
