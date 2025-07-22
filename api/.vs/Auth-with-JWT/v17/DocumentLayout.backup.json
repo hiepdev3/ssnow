@@ -7,10 +7,6 @@
       "RelativeMoniker": "D:0:0:{6D3A790E-8831-469C-BFFD-4A324E16A31B}|Auth-with-JWT\\Auth-with-JWT.csproj|solutionrelative:auth-with-jwt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D3A790E-8831-469C-BFFD-4A324E16A31B}|Auth-with-JWT\\Auth-with-JWT.csproj|h:\\deoonroi\\ssnow\\api\\auth-with-jwt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{6D3A790E-8831-469C-BFFD-4A324E16A31B}|Auth-with-JWT\\Auth-with-JWT.csproj|solutionrelative:auth-with-jwt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6D3A790E-8831-469C-BFFD-4A324E16A31B}|Auth-with-JWT\\Auth-with-JWT.csproj|h:\\deoonroi\\ssnow\\api\\auth-with-jwt\\data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D3A790E-8831-469C-BFFD-4A324E16A31B}|Auth-with-JWT\\Auth-with-JWT.csproj|solutionrelative:auth-with-jwt\\data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -26,24 +22,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "H:\\deoonroi\\ssnow\\api\\Auth-with-JWT\\appsettings.json",
-              "RelativeDocumentMoniker": "Auth-with-JWT\\appsettings.json",
-              "ToolTip": "H:\\deoonroi\\ssnow\\api\\Auth-with-JWT\\appsettings.json",
-              "RelativeToolTip": "Auth-with-JWT\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-22T10:05:21.183Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Mark.cs",
               "DocumentMoniker": "H:\\deoonroi\\ssnow\\api\\Auth-with-JWT\\Entities\\Mark.cs",
               "RelativeDocumentMoniker": "Auth-with-JWT\\Entities\\Mark.cs",
@@ -51,11 +34,12 @@
               "RelativeToolTip": "Auth-with-JWT\\Entities\\Mark.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T10:00:18.144Z"
+              "WhenOpened": "2025-07-22T10:00:18.144Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "MyDbContext.cs",
               "DocumentMoniker": "H:\\deoonroi\\ssnow\\api\\Auth-with-JWT\\Data\\MyDbContext.cs",
               "RelativeDocumentMoniker": "Auth-with-JWT\\Data\\MyDbContext.cs",
@@ -63,7 +47,8 @@
               "RelativeToolTip": "Auth-with-JWT\\Data\\MyDbContext.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T09:57:55.554Z"
+              "WhenOpened": "2025-07-22T09:57:55.554Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -73,7 +58,7 @@
               "RelativeDocumentMoniker": "Auth-with-JWT\\Program.cs",
               "ToolTip": "H:\\deoonroi\\ssnow\\api\\Auth-with-JWT\\Program.cs",
               "RelativeToolTip": "Auth-with-JWT\\Program.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAnwD0AAAArAAAAAAAAAA==",
+              "ViewState": "AgIAACsAAAAAAAAAAAAnwDMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-22T09:56:26.144Z",
               "EditorCaption": ""
