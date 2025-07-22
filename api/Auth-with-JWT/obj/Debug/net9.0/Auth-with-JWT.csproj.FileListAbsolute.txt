@@ -1,0 +1,8 @@
+C:\Users\Dell\Documents\GitHub\reportViews\Auth-with-JWT\obj\Debug\net9.0\Auth-with-JWT.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\GitHub\reportViews\Auth-with-JWT\obj\Debug\net9.0\Auth-with-JWT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\GitHub\reportViews\Auth-with-JWT\obj\Debug\net9.0\Auth-with-JWT.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\GitHub\reportViews\Auth-with-JWT\obj\Debug\net9.0\Auth-with-JWT.AssemblyInfo.cs
+C:\Users\Dell\Documents\GitHub\reportViews\Auth-with-JWT\obj\Debug\net9.0\Auth-with-JWT.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\GitHub\reportViews\Auth-with-JWT\obj\Debug\net9.0\Auth-with-JWT.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Dell\Documents\GitHub\reportViews\Auth-with-JWT\obj\Debug\net9.0\Auth-with-JWT.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dell\Documents\GitHub\reportViews\Auth-with-JWT\obj\Debug\net9.0\Auth-with-JWT.sourcelink.json
