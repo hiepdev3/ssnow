@@ -1,0 +1,50 @@
+﻿@model Q2.ViewModels.MovieListViewModel
+
+<div style="display:flex; gap: 20px;">
+
+    <!-- LEFT: Directors List -->
+    <div style="width: 20%;">
+        <h3>Directors</h3>
+        @for (int d = 0; d < Model.Directors.Count; d++)
+        {
+            var director = Model.Directors[d];
+            <a id="di_@director.Id" href="@Url.Action("Director_Movie", "Movies", new { directorId = director.Id })">
+                @director.FullName
+            </a>
+
+            <br />
+        }
+    </div>
+
+    <!-- RIGHT: Movies Table -->
+    <div style="width: 80%;">
+        <h3>List of Movies</h3>
+        <table border="1" cellpadding="5" cellspacing="0">
+            <thead>
+                <tr>
+                    <th>Title</th>
+                    <th>Release Date</th>
+                    <th>Description</th>
+                    <th>Language</th>
+                    <th>Director</th>
+                    <th>Stars</th>
+                </tr>
+            </thead>
+            <tbody>
+                @for (int i = 0; i < Model.Movies.Count; i++)
+                {
+                    var movie = Model.Movies[i];
+                    <tr>
+                        <td id="td_title_@i">@movie.Title</td>
+                        <td id="td_releaseDate_@i">@movie.ReleaseDate.ToString("MM/dd/yyyy")</td>
+                        <td id="td_description_@i">@movie.Description</td>
+                        <td id="td_language_@i">@movie.Language</td>
+                        <td id="td_director_@i">@movie.DirectorName</td>
+                        <td id="td_stars_@i">@movie.StarNames</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+
+</div>

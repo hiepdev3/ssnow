@@ -1,0 +1,94 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\Desktop\\PRN222_GivenSolution (1)\\PRN222_GivenSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4499C509-756E-421C-A8FB-C7ED63EF0174}|Q2\\Q2.csproj|c:\\users\\dell\\desktop\\prn222_givensolution (1)\\prn222_givensolution\\q2\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4499C509-756E-421C-A8FB-C7ED63EF0174}|Q2\\Q2.csproj|solutionrelative:q2\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4499C509-756E-421C-A8FB-C7ED63EF0174}|Q2\\Q2.csproj|c:\\users\\dell\\desktop\\prn222_givensolution (1)\\prn222_givensolution\\q2\\views\\movies\\director_movie.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4499C509-756E-421C-A8FB-C7ED63EF0174}|Q2\\Q2.csproj|solutionrelative:q2\\views\\movies\\director_movie.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4499C509-756E-421C-A8FB-C7ED63EF0174}|Q2\\Q2.csproj|c:\\users\\dell\\desktop\\prn222_givensolution (1)\\prn222_givensolution\\q2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4499C509-756E-421C-A8FB-C7ED63EF0174}|Q2\\Q2.csproj|solutionrelative:q2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF0F814F-6B57-4DC0-B94B-16F47B2E4D85}|MVcCau2\\MVcCau2.csproj|c:\\users\\dell\\desktop\\prn222_givensolution (1)\\prn222_givensolution\\mvccau2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF0F814F-6B57-4DC0-B94B-16F47B2E4D85}|MVcCau2\\MVcCau2.csproj|solutionrelative:mvccau2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 125,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\PRN222_GivenSolution (1)\\PRN222_GivenSolution\\MVcCau2\\Program.cs",
+              "RelativeDocumentMoniker": "MVcCau2\\Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\PRN222_GivenSolution (1)\\PRN222_GivenSolution\\MVcCau2\\Program.cs",
+              "RelativeToolTip": "MVcCau2\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T16:45:32.081Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 275,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Director_Movie.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\PRN222_GivenSolution (1)\\PRN222_GivenSolution\\Q2\\Views\\Movies\\Director_Movie.cshtml",
+              "RelativeDocumentMoniker": "Q2\\Views\\Movies\\Director_Movie.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\PRN222_GivenSolution (1)\\PRN222_GivenSolution\\Q2\\Views\\Movies\\Director_Movie.cshtml",
+              "RelativeToolTip": "Q2\\Views\\Movies\\Director_Movie.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-18T17:38:12.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\PRN222_GivenSolution (1)\\PRN222_GivenSolution\\Q2\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "Q2\\Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\PRN222_GivenSolution (1)\\PRN222_GivenSolution\\Q2\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "Q2\\Controllers\\MoviesController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T17:23:18.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\PRN222_GivenSolution (1)\\PRN222_GivenSolution\\Q2\\Program.cs",
+              "RelativeDocumentMoniker": "Q2\\Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\PRN222_GivenSolution (1)\\PRN222_GivenSolution\\Q2\\Program.cs",
+              "RelativeToolTip": "Q2\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T16:44:24.694Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
